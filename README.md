@@ -1,2 +1,0 @@
-# LinkToHot
-LinkToHot
